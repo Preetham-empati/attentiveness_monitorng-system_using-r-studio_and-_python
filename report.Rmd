@@ -1,0 +1,118 @@
+---
+title: "Classroom Attentiveness Monitor: Faculty Report"
+subtitle: "A Statistical Analysis and Reporting Dashboard in R (23AI502PC)"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: united
+---
+
+```{r setup, include=FALSE}
+# This code chunk runs in the background.
+# It sets up our environment, loads data, and does all calculations.
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+# 1. Load Libraries
+library(dplyr)
+library(ggplot2)
+
+# 2. Import and Clean Data
+data <- read.csv("classroom_log.csv")
+data$status <- as.factor(data$status)
+data$timestamp <- as.POSIXct(data$timestamp, format = "%Y-%m-%dT%H:%M:%OS")
+```
+
+## 1. Executive Summary
+
+This report provides a data-driven analysis of student engagement for the last recorded class session. The data was collected via an automated CV system (Module 1) and analyzed using R (Module 2).
+
+```{r, echo=FALSE}
+# 3. Perform High-Level Calculations (Unit II)
+class_avg_score <- mean(data$attentiveness_score)
+at_risk_students <- data %>%
+  group_by(roll_no) %>%
+  summarise(avg_score = mean(attentiveness_score)) %>%
+  filter(avg_score < 0.6) # Define "at-risk" as < 60% average
+
+total_students <- length(unique(data$roll_no))
+```
+
+* **Total Students Monitored:** `r total_students`
+* **Overall Class Average Attentiveness:** `r round(class_avg_score * 100, 1)`%
+* **Students with < 60% Avg. Attention:** `r nrow(at_risk_students)`
+
+---
+
+## 2. Class Attentiveness Over Time (Unit V)
+
+This line graph shows the average attentiveness of the *entire class* from the beginning to the end of the session. This helps identify moments when engagement may have dropped (e.g., long lectures, difficult topics).
+
+```{r, echo=FALSE, fig.width=10, fig.height=5}
+# 4. Create Plot 2 (Line Graph)
+plot2_linegraph <- data %>%
+  mutate(time_bin = cut(timestamp, breaks = "20 sec")) %>%
+  group_by(time_bin) %>%
+  summarise(class_avg_score = mean(attentiveness_score)) %>%
+  mutate(time_bin = as.POSIXct(time_bin)) %>%
+  
+  ggplot(aes(x = time_bin, y = class_avg_score)) +
+  geom_line(color = "#0072B2", size = 1.2) +
+  geom_point(color = "#0072B2", size = 2) +
+  labs(
+    title = "Average Class Attentiveness Over Time",
+    x = "Session Time",
+    y = "Average Attentiveness Score"
+  ) +
+  ylim(0, 1) + # Set Y-axis from 0 to 1
+  theme_minimal(base_size = 14)
+
+print(plot2_linegraph)
+```
+
+---
+
+## 3. Individual Student Analysis (Unit II & V)
+
+This section provides a detailed breakdown of each student's performance.
+
+### Individual Score Distribution (Box Plot)
+
+The box plot below compares the score distribution for every student tracked. This is the best way to quickly identify "at-risk" individuals (those with a low median score, shown by the line in the box) and those with inconsistent attention (a very tall box).
+
+```{r, echo=FALSE, fig.width=10, fig.height=6}
+# 5. Create Plot 1 (Box Plot)
+plot1_boxplot <- ggplot(data, aes(x = reorder(roll_no, attentiveness_score), y = attentiveness_score, fill = roll_no)) +
+  geom_boxplot() +
+  labs(
+    title = "Student Attentiveness Distribution",
+    subtitle = "Comparing score distributions for each student",
+    x = "Student Roll Number (Ordered by Median Score)",
+    y = "Attentiveness Score"
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none") +
+  coord_flip() # Flip to horizontal for easier reading
+
+print(plot1_boxplot)
+```
+
+### Detailed Student Data Table
+
+This table provides the raw statistics for each student, including their average score, median, standard deviation (variance), and the number of data points collected for them.
+
+```{r, echo=FALSE}
+# 6. Create Student Summary Table
+student_summary <- data %>%
+  group_by(roll_no) %>%
+  summarise(
+    avg_score = round(mean(attentiveness_score), 2),
+    median_score = round(median(attentiveness_score), 2),
+    std_dev = round(sd(attentiveness_score), 2),
+    time_points = n()
+  ) %>%
+  arrange(avg_score) # Sort by average score (lowest first)
+
+# Display the table
+knitr::kable(student_summary, caption = "Summary Statistics by Student (Unit II)")
+```

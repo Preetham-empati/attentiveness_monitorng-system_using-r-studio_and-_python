@@ -1,0 +1,860 @@
+timestamp,roll_no,status,attentiveness_score
+2025-11-04T09:37:39.962627,student_0,Attentive,1.0
+2025-11-04T09:37:40.091369,student_0,Attentive,1.0
+2025-11-04T09:37:40.132539,student_0,Attentive,1.0
+2025-11-04T09:37:40.158163,student_0,Attentive,1.0
+2025-11-04T09:37:40.196257,student_0,Attentive,1.0
+2025-11-04T09:37:40.242460,student_0,Attentive,1.0
+2025-11-04T09:37:40.288577,student_0,Attentive,1.0
+2025-11-04T09:37:40.317224,student_0,Attentive,1.0
+2025-11-04T09:37:40.367015,student_0,Attentive,1.0
+2025-11-04T09:37:40.445624,student_0,Attentive,1.0
+2025-11-04T09:37:40.493219,student_0,Attentive,1.0
+2025-11-04T09:37:40.533052,student_0,Attentive,1.0
+2025-11-04T09:37:40.577698,student_0,Attentive,1.0
+2025-11-04T09:37:40.624364,student_0,Attentive,1.0
+2025-11-04T09:37:40.666627,student_0,Attentive,1.0
+2025-11-04T09:37:40.716837,student_0,Attentive,1.0
+2025-11-04T09:37:40.769042,student_0,Attentive,1.0
+2025-11-04T09:37:40.815754,student_0,Attentive,1.0
+2025-11-04T09:37:40.847620,student_0,Attentive,1.0
+2025-11-04T09:37:40.924457,student_0,Attentive,1.0
+2025-11-04T09:37:40.979450,student_0,Attentive,1.0
+2025-11-04T09:37:41.031510,student_0,Attentive,1.0
+2025-11-04T09:37:41.074501,student_0,Attentive,1.0
+2025-11-04T09:37:41.125635,student_0,Attentive,1.0
+2025-11-04T09:37:41.169429,student_0,Attentive,1.0
+2025-11-04T09:37:41.216512,student_0,Attentive,1.0
+2025-11-04T09:37:41.281818,student_0,Attentive,1.0
+2025-11-04T09:37:41.354007,student_0,Looking Away,0.5
+2025-11-04T09:37:41.421909,student_0,Looking Away,0.5
+2025-11-04T09:37:41.507514,student_0,Looking Away,0.5
+2025-11-04T09:37:41.553608,student_0,Looking Away,0.5
+2025-11-04T09:37:41.597182,student_0,Looking Away,0.5
+2025-11-04T09:37:41.630260,student_0,Looking Away,0.5
+2025-11-04T09:37:41.659569,student_0,Looking Away,0.5
+2025-11-04T09:37:41.692858,student_0,Looking Away,0.5
+2025-11-04T09:37:41.723666,student_0,Looking Down,0.6
+2025-11-04T09:37:41.758138,student_0,Looking Away,0.5
+2025-11-04T09:37:41.798302,student_0,Looking Away,0.5
+2025-11-04T09:37:41.843399,student_0,Attentive,1.0
+2025-11-04T09:37:41.941805,student_0,Attentive,1.0
+2025-11-04T09:37:41.993025,student_0,Attentive,1.0
+2025-11-04T09:37:42.029646,student_0,Attentive,1.0
+2025-11-04T09:37:42.071508,student_0,Attentive,1.0
+2025-11-04T09:37:42.111989,student_0,Attentive,1.0
+2025-11-04T09:37:42.140310,student_0,Attentive,1.0
+2025-11-04T09:37:42.170493,student_0,Attentive,1.0
+2025-11-04T09:37:42.200591,student_0,Attentive,1.0
+2025-11-04T09:37:42.231596,student_0,Attentive,1.0
+2025-11-04T09:37:42.266939,student_0,Attentive,1.0
+2025-11-04T09:37:42.331971,student_0,Attentive,1.0
+2025-11-04T09:37:42.362023,student_0,Attentive,1.0
+2025-11-04T09:37:42.395149,student_0,Attentive,1.0
+2025-11-04T09:37:42.431286,student_0,Attentive,1.0
+2025-11-04T09:37:42.479028,student_0,Attentive,1.0
+2025-11-04T09:37:42.503647,student_0,Attentive,1.0
+2025-11-04T09:37:42.557507,student_0,Attentive,1.0
+2025-11-04T09:37:42.606486,student_0,Attentive,1.0
+2025-11-04T09:37:42.665552,student_0,Attentive,1.0
+2025-11-04T09:37:42.724135,student_0,Attentive,1.0
+2025-11-04T09:37:42.823330,student_0,Attentive,1.0
+2025-11-04T09:37:42.859192,student_0,Attentive,1.0
+2025-11-04T09:37:42.907252,student_0,Attentive,1.0
+2025-11-04T09:37:42.939848,student_0,Attentive,1.0
+2025-11-04T09:37:42.973952,student_0,Attentive,1.0
+2025-11-04T09:37:43.005378,student_0,Attentive,1.0
+2025-11-04T09:37:43.034256,student_0,Attentive,1.0
+2025-11-04T09:37:43.072950,student_0,Attentive,1.0
+2025-11-04T09:37:43.109276,student_0,Attentive,1.0
+2025-11-04T09:37:43.153033,student_0,Attentive,1.0
+2025-11-04T09:37:43.257022,student_0,Attentive,1.0
+2025-11-04T09:37:43.303395,student_0,Attentive,1.0
+2025-11-04T09:37:43.357518,student_1,Looking Away,0.5
+2025-11-04T09:37:43.358854,student_0,Attentive,1.0
+2025-11-04T09:37:43.401180,student_1,Looking Away,0.5
+2025-11-04T09:37:43.403696,student_0,Attentive,1.0
+2025-11-04T09:37:43.450900,student_1,Attentive,1.0
+2025-11-04T09:37:43.450900,student_0,Attentive,1.0
+2025-11-04T09:37:43.487124,student_1,Attentive,1.0
+2025-11-04T09:37:43.489441,student_0,Attentive,1.0
+2025-11-04T09:37:43.590998,student_1,Attentive,1.0
+2025-11-04T09:37:43.594074,student_0,Attentive,1.0
+2025-11-04T09:37:43.696076,student_1,Attentive,1.0
+2025-11-04T09:37:43.698099,student_0,Attentive,1.0
+2025-11-04T09:37:43.744649,student_1,Attentive,1.0
+2025-11-04T09:37:43.744649,student_0,Attentive,1.0
+2025-11-04T09:37:43.776965,student_1,Attentive,1.0
+2025-11-04T09:37:43.776965,student_0,Attentive,1.0
+2025-11-04T09:37:43.856312,student_1,Attentive,1.0
+2025-11-04T09:37:43.857422,student_0,Attentive,1.0
+2025-11-04T09:37:43.888286,student_1,Attentive,1.0
+2025-11-04T09:37:43.888286,student_0,Looking Away,0.5
+2025-11-04T09:37:43.927651,student_1,Attentive,1.0
+2025-11-04T09:37:43.927651,student_0,Looking Away,0.5
+2025-11-04T09:37:43.974846,student_1,Attentive,1.0
+2025-11-04T09:37:43.975851,student_0,Looking Away,0.5
+2025-11-04T09:37:44.027305,student_1,Attentive,1.0
+2025-11-04T09:37:44.027305,student_0,Looking Away,0.5
+2025-11-04T09:37:44.075057,student_1,Attentive,1.0
+2025-11-04T09:37:44.075057,student_0,Looking Away,0.5
+2025-11-04T09:37:44.123184,student_1,Attentive,1.0
+2025-11-04T09:37:44.123184,student_0,Looking Away,0.5
+2025-11-04T09:37:44.173569,student_1,Attentive,1.0
+2025-11-04T09:37:44.173569,student_0,Looking Away,0.5
+2025-11-04T09:37:44.215957,student_1,Attentive,1.0
+2025-11-04T09:37:44.221707,student_0,Looking Away,0.5
+2025-11-04T09:37:44.267659,student_1,Attentive,1.0
+2025-11-04T09:37:44.267659,student_0,Looking Away,0.5
+2025-11-04T09:37:44.367893,student_1,Attentive,1.0
+2025-11-04T09:37:44.369906,student_0,Looking Away,0.5
+2025-11-04T09:37:44.426640,student_1,Attentive,1.0
+2025-11-04T09:37:44.426640,student_0,Looking Away,0.5
+2025-11-04T09:37:44.477989,student_1,Attentive,1.0
+2025-11-04T09:37:44.480006,student_0,Looking Away,0.5
+2025-11-04T09:37:44.531484,student_1,Attentive,1.0
+2025-11-04T09:37:44.531484,student_0,Looking Away,0.5
+2025-11-04T09:37:44.587529,student_1,Attentive,1.0
+2025-11-04T09:37:44.587529,student_0,Attentive,1.0
+2025-11-04T09:37:44.639372,student_1,Attentive,1.0
+2025-11-04T09:37:44.639372,student_0,Attentive,1.0
+2025-11-04T09:37:44.696563,student_1,Attentive,1.0
+2025-11-04T09:37:44.696563,student_0,Attentive,1.0
+2025-11-04T09:37:44.753983,student_1,Attentive,1.0
+2025-11-04T09:37:44.753983,student_0,Attentive,1.0
+2025-11-04T09:37:44.803458,student_1,Attentive,1.0
+2025-11-04T09:37:44.803458,student_0,Attentive,1.0
+2025-11-04T09:37:44.847039,student_1,Attentive,1.0
+2025-11-04T09:37:44.847039,student_0,Attentive,1.0
+2025-11-04T09:37:44.942855,student_1,Attentive,1.0
+2025-11-04T09:37:44.945099,student_0,Attentive,1.0
+2025-11-04T09:37:44.984992,student_1,Sleepy,0.0
+2025-11-04T09:37:44.984992,student_0,Attentive,1.0
+2025-11-04T09:37:45.043535,student_1,Sleepy,0.0
+2025-11-04T09:37:45.045548,student_0,Attentive,1.0
+2025-11-04T09:37:45.082695,student_1,Sleepy,0.0
+2025-11-04T09:37:45.082695,student_0,Attentive,1.0
+2025-11-04T09:37:45.141531,student_1,Sleepy,0.0
+2025-11-04T09:37:45.143400,student_0,Attentive,1.0
+2025-11-04T09:37:45.185560,student_1,Sleepy,0.0
+2025-11-04T09:37:45.185560,student_0,Attentive,1.0
+2025-11-04T09:37:45.231628,student_1,Sleepy,0.0
+2025-11-04T09:37:45.233676,student_0,Attentive,1.0
+2025-11-04T09:37:45.274658,student_1,Sleepy,0.0
+2025-11-04T09:37:45.276670,student_0,Looking Away,0.5
+2025-11-04T09:37:45.331618,student_1,Sleepy,0.0
+2025-11-04T09:37:45.333688,student_0,Looking Away,0.5
+2025-11-04T09:37:45.387016,student_1,Sleepy,0.0
+2025-11-04T09:37:45.389028,student_0,Attentive,1.0
+2025-11-04T09:37:45.451571,student_1,Sleepy,0.0
+2025-11-04T09:37:45.457818,student_0,Looking Away,0.5
+2025-11-04T09:37:45.505221,student_1,Sleepy,0.0
+2025-11-04T09:37:45.560395,student_1,Sleepy,0.0
+2025-11-04T09:37:45.598745,student_1,Sleepy,0.0
+2025-11-04T09:37:45.627247,student_1,Sleepy,0.0
+2025-11-04T09:37:45.658042,student_1,Sleepy,0.0
+2025-11-04T09:37:45.692949,student_1,Sleepy,0.0
+2025-11-04T09:37:45.726807,student_1,Sleepy,0.0
+2025-11-04T09:37:45.754513,student_1,Sleepy,0.0
+2025-11-04T09:37:45.790932,student_1,Sleepy,0.0
+2025-11-04T09:37:45.851357,student_1,Sleepy,0.0
+2025-11-04T09:37:45.890442,student_1,Sleepy,0.0
+2025-11-04T09:37:45.925780,student_1,Sleepy,0.0
+2025-11-04T09:37:45.962863,student_1,Sleepy,0.0
+2025-11-04T09:37:45.996734,student_1,Sleepy,0.0
+2025-11-04T09:37:46.032463,student_1,Sleepy,0.0
+2025-11-04T09:37:46.068078,student_1,Sleepy,0.0
+2025-11-04T09:37:46.113081,student_1,Sleepy,0.0
+2025-11-04T09:37:46.151245,student_1,Sleepy,0.0
+2025-11-04T09:37:46.199092,student_1,Sleepy,0.0
+2025-11-04T09:37:46.284492,student_1,Sleepy,0.0
+2025-11-04T09:37:46.311222,student_1,Sleepy,0.0
+2025-11-04T09:37:46.357657,student_2,Looking Away,0.5
+2025-11-04T09:37:46.358670,student_1,Sleepy,0.0
+2025-11-04T09:37:46.406901,student_2,Looking Away,0.5
+2025-11-04T09:37:46.407916,student_1,Sleepy,0.0
+2025-11-04T09:37:46.462476,student_2,Looking Away,0.5
+2025-11-04T09:37:46.462476,student_1,Sleepy,0.0
+2025-11-04T09:37:46.503663,student_2,Looking Away,0.5
+2025-11-04T09:37:46.508889,student_1,Sleepy,0.0
+2025-11-04T09:37:46.552946,student_2,Looking Away,0.5
+2025-11-04T09:37:46.552946,student_1,Sleepy,0.0
+2025-11-04T09:37:46.603365,student_2,Looking Away,0.5
+2025-11-04T09:37:46.603365,student_1,Sleepy,0.0
+2025-11-04T09:37:46.648031,student_2,Looking Away,0.5
+2025-11-04T09:37:46.648031,student_1,Sleepy,0.0
+2025-11-04T09:37:46.708976,student_2,Looking Away,0.5
+2025-11-04T09:37:46.715122,student_1,Sleepy,0.0
+2025-11-04T09:37:46.819278,student_2,Looking Away,0.5
+2025-11-04T09:37:46.819278,student_1,Sleepy,0.0
+2025-11-04T09:37:46.875462,student_1,Looking Away,0.5
+2025-11-04T09:37:46.875462,student_2,Looking Away,0.5
+2025-11-04T09:37:46.875462,student_1,Sleepy,0.0
+2025-11-04T09:37:46.941912,student_2,Looking Away,0.5
+2025-11-04T09:37:46.944445,student_1,Sleepy,0.0
+2025-11-04T09:37:46.988651,student_2,Looking Away,0.5
+2025-11-04T09:37:46.988651,student_1,Sleepy,0.0
+2025-11-04T09:37:47.036574,student_2,Looking Away,0.5
+2025-11-04T09:37:47.036574,student_1,Sleepy,0.0
+2025-11-04T09:37:47.079608,student_2,Looking Away,0.5
+2025-11-04T09:37:47.081620,student_1,Looking Away,0.5
+2025-11-04T09:37:47.132038,student_2,Looking Away,0.5
+2025-11-04T09:37:47.132038,student_1,Attentive,1.0
+2025-11-04T09:37:47.170770,student_2,Looking Away,0.5
+2025-11-04T09:37:47.170770,student_1,Attentive,1.0
+2025-11-04T09:37:47.228033,student_2,Looking Away,0.5
+2025-11-04T09:37:47.228033,student_1,Attentive,1.0
+2025-11-04T09:37:47.273369,student_2,Looking Away,0.5
+2025-11-04T09:37:47.273369,student_1,Attentive,1.0
+2025-11-04T09:37:47.371462,student_2,Looking Away,0.5
+2025-11-04T09:37:47.373445,student_1,Attentive,1.0
+2025-11-04T09:37:47.419072,student_2,Looking Away,0.5
+2025-11-04T09:37:47.419072,student_1,Attentive,1.0
+2025-11-04T09:37:47.509841,student_2,Looking Away,0.5
+2025-11-04T09:37:47.509841,student_1,Attentive,1.0
+2025-11-04T09:37:47.582850,student_2,Looking Away,0.5
+2025-11-04T09:37:47.582850,student_1,Looking Away,0.5
+2025-11-04T09:37:47.669093,student_2,Looking Away,0.5
+2025-11-04T09:37:47.745612,student_2,Looking Away,0.5
+2025-11-04T09:37:47.784265,student_2,Looking Away,0.5
+2025-11-04T09:37:47.823094,student_2,Looking Away,0.5
+2025-11-04T09:37:47.856219,student_2,Looking Away,0.5
+2025-11-04T09:37:47.889880,student_2,Looking Away,0.5
+2025-11-04T09:37:47.983390,student_2,Looking Away,0.5
+2025-11-04T09:37:48.016961,student_2,Looking Away,0.5
+2025-11-04T09:37:48.048917,student_2,Looking Away,0.5
+2025-11-04T09:37:48.098251,student_2,Looking Away,0.5
+2025-11-04T09:37:48.146664,student_2,Looking Away,0.5
+2025-11-04T09:37:48.193041,student_2,Looking Away,0.5
+2025-11-04T09:37:48.228723,student_2,Looking Away,0.5
+2025-11-04T09:37:48.271819,student_2,Looking Away,0.5
+2025-11-04T09:37:48.303605,student_2,Looking Away,0.5
+2025-11-04T09:37:48.344856,student_2,Looking Away,0.5
+2025-11-04T09:37:48.430354,student_2,Looking Away,0.5
+2025-11-04T09:37:48.464315,student_2,Looking Away,0.5
+2025-11-04T09:37:48.498523,student_2,Looking Away,0.5
+2025-11-04T09:37:48.530833,student_2,Looking Away,0.5
+2025-11-04T09:37:48.578205,student_2,Looking Away,0.5
+2025-11-04T09:37:48.614591,student_2,Looking Away,0.5
+2025-11-04T09:37:48.648763,student_2,Looking Away,0.5
+2025-11-04T09:37:48.683764,student_2,Looking Away,0.5
+2025-11-04T09:37:48.726935,student_2,Looking Away,0.5
+2025-11-04T09:37:48.764796,student_2,Looking Away,0.5
+2025-11-04T09:37:48.835326,student_2,Looking Away,0.5
+2025-11-04T09:37:48.881670,student_2,Looking Away,0.5
+2025-11-04T09:37:48.918355,student_2,Looking Away,0.5
+2025-11-04T09:37:48.945374,student_2,Looking Away,0.5
+2025-11-04T09:37:48.980032,student_2,Looking Down,0.6
+2025-11-04T09:37:49.003733,student_2,Looking Down,0.6
+2025-11-04T09:37:49.051615,student_2,Looking Down,0.6
+2025-11-04T09:37:49.094408,student_2,Looking Down,0.6
+2025-11-04T09:37:49.136914,student_2,Looking Down,0.6
+2025-11-04T09:37:49.184070,student_2,Looking Down,0.6
+2025-11-04T09:37:49.265711,student_2,Looking Down,0.6
+2025-11-04T09:37:49.307299,student_2,Looking Down,0.6
+2025-11-04T09:37:49.333051,student_2,Looking Down,0.6
+2025-11-04T09:37:49.370435,student_2,Looking Down,0.6
+2025-11-04T09:37:49.408910,student_2,Looking Down,0.6
+2025-11-04T09:37:49.441568,student_2,Looking Down,0.6
+2025-11-04T09:37:49.469360,student_2,Looking Down,0.6
+2025-11-04T09:37:49.520447,student_2,Looking Down,0.6
+2025-11-04T09:37:49.553716,student_2,Looking Down,0.6
+2025-11-04T09:37:49.592644,student_2,Looking Down,0.6
+2025-11-04T09:37:49.691101,student_2,Attentive,1.0
+2025-11-04T09:37:49.738392,student_2,Attentive,1.0
+2025-11-04T09:37:49.770416,student_2,Attentive,1.0
+2025-11-04T09:37:49.823590,student_2,Looking Down,0.6
+2025-11-04T09:37:49.859696,student_2,Looking Down,0.6
+2025-11-04T09:37:49.910812,student_2,Looking Down,0.6
+2025-11-04T09:37:49.959641,student_2,Attentive,1.0
+2025-11-04T09:37:49.995497,student_3,Looking Away,0.5
+2025-11-04T09:37:49.996859,student_2,Looking Down,0.6
+2025-11-04T09:37:50.039510,student_3,Attentive,1.0
+2025-11-04T09:37:50.041523,student_2,Looking Down,0.6
+2025-11-04T09:37:50.101001,student_3,Attentive,1.0
+2025-11-04T09:37:50.104618,student_2,Looking Down,0.6
+2025-11-04T09:37:50.178958,student_3,Attentive,1.0
+2025-11-04T09:37:50.181333,student_2,Looking Down,0.6
+2025-11-04T09:37:50.226483,student_3,Attentive,1.0
+2025-11-04T09:37:50.228778,student_2,Attentive,1.0
+2025-11-04T09:37:50.275894,student_3,Attentive,1.0
+2025-11-04T09:37:50.277905,student_2,Looking Down,0.6
+2025-11-04T09:37:50.331323,student_3,Attentive,1.0
+2025-11-04T09:37:50.333337,student_2,Looking Down,0.6
+2025-11-04T09:37:50.375597,student_3,Looking Away,0.5
+2025-11-04T09:37:50.377873,student_2,Looking Down,0.6
+2025-11-04T09:37:50.425024,student_2,Looking Down,0.6
+2025-11-04T09:37:50.464104,student_2,Looking Down,0.6
+2025-11-04T09:37:50.492420,student_2,Looking Down,0.6
+2025-11-04T09:37:50.553688,student_2,Looking Away,0.5
+2025-11-04T09:37:50.650711,student_2,Looking Away,0.5
+2025-11-04T09:37:50.802530,student_2,Looking Away,0.5
+2025-11-04T09:37:50.834875,student_2,Looking Away,0.5
+2025-11-04T09:37:50.873110,student_2,Attentive,1.0
+2025-11-04T09:37:50.909612,student_2,Attentive,1.0
+2025-11-04T09:37:50.953477,student_2,Attentive,1.0
+2025-11-04T09:37:51.019828,student_2,Looking Away,0.5
+2025-11-04T09:37:51.067387,student_2,Looking Away,0.5
+2025-11-04T09:37:51.112151,student_2,Looking Away,0.5
+2025-11-04T09:37:51.165360,student_2,Looking Away,0.5
+2025-11-04T09:37:51.209086,student_2,Looking Away,0.5
+2025-11-04T09:37:51.359406,student_2,Looking Away,0.5
+2025-11-04T09:37:51.412776,student_4,Face Covered,0.3
+2025-11-04T09:37:51.414786,student_2,Looking Down,0.6
+2025-11-04T09:37:51.469627,student_2,Looking Down,0.6
+2025-11-04T09:37:51.522788,student_2,Looking Down,0.6
+2025-11-04T09:37:51.569151,student_2,Attentive,1.0
+2025-11-04T09:37:51.619395,student_2,Attentive,1.0
+2025-11-04T09:37:51.673519,student_2,Sleepy,0.0
+2025-11-04T09:37:51.718396,student_2,Sleepy,0.0
+2025-11-04T09:37:52.199605,student_5,Face Covered,0.3
+2025-11-04T09:37:52.353131,student_6,Face Covered,0.3
+2025-11-04T09:37:52.411230,student_6,Face Covered,0.3
+2025-11-04T09:37:52.492350,student_6,Face Covered,0.3
+2025-11-04T09:37:52.748137,student_7,Face Covered,0.3
+2025-11-04T09:37:52.878757,student_7,Face Covered,0.3
+2025-11-04T09:37:52.943392,student_7,Face Covered,0.3
+2025-11-04T09:37:52.990300,student_7,Face Covered,0.3
+2025-11-04T09:37:53.024273,student_7,Face Covered,0.3
+2025-11-04T09:37:53.753522,student_8,Face Covered,0.3
+2025-11-04T09:37:53.812446,student_8,Face Covered,0.3
+2025-11-04T09:37:53.870001,student_8,Face Covered,0.3
+2025-11-04T09:37:53.946345,student_8,Face Covered,0.3
+2025-11-04T09:37:54.108720,student_9,Looking Away,0.5
+2025-11-04T09:37:54.159779,student_9,Looking Away,0.5
+2025-11-04T09:37:54.210736,student_9,Looking Away,0.5
+2025-11-04T09:37:54.268905,student_9,Looking Away,0.5
+2025-11-04T09:37:54.340779,student_9,Looking Away,0.5
+2025-11-04T09:37:54.401787,student_9,Looking Away,0.5
+2025-11-04T09:37:54.449006,student_9,Looking Away,0.5
+2025-11-04T09:37:54.511020,student_9,Looking Away,0.5
+2025-11-04T09:37:54.560248,student_9,Looking Away,0.5
+2025-11-04T09:37:54.690724,student_9,Looking Away,0.5
+2025-11-04T09:37:54.763885,student_9,Looking Away,0.5
+2025-11-04T09:37:54.816276,student_9,Looking Away,0.5
+2025-11-04T09:37:54.871412,student_9,Looking Away,0.5
+2025-11-04T09:37:54.929061,student_9,Attentive,1.0
+2025-11-04T09:37:54.985640,student_9,Attentive,1.0
+2025-11-04T09:37:55.041392,student_9,Looking Down,0.6
+2025-11-04T09:37:55.115792,student_9,Looking Down,0.6
+2025-11-04T09:37:55.173404,student_9,Looking Down,0.6
+2025-11-04T09:37:55.238944,student_9,Looking Down,0.6
+2025-11-04T09:37:55.372811,student_9,Attentive,1.0
+2025-11-04T09:37:55.430320,student_9,Attentive,1.0
+2025-11-04T09:37:55.490076,student_9,Looking Away,0.5
+2025-11-04T09:37:55.540558,student_9,Looking Away,0.5
+2025-11-04T09:37:55.600530,student_9,Looking Away,0.5
+2025-11-04T09:37:55.680346,student_9,Looking Away,0.5
+2025-11-04T09:37:55.723484,student_9,Looking Away,0.5
+2025-11-04T09:37:55.759502,student_9,Attentive,1.0
+2025-11-04T09:37:55.798730,student_9,Looking Away,0.5
+2025-11-04T09:37:55.840489,student_9,Looking Away,0.5
+2025-11-04T09:37:55.932126,student_9,Looking Away,0.5
+2025-11-04T09:37:55.970291,student_9,Attentive,1.0
+2025-11-04T09:37:56.025855,student_9,Looking Away,0.5
+2025-11-04T09:37:56.064976,student_9,Attentive,1.0
+2025-11-04T09:37:56.115794,student_9,Attentive,1.0
+2025-11-04T09:37:56.167725,student_9,Attentive,1.0
+2025-11-04T09:37:56.216022,student_9,Attentive,1.0
+2025-11-04T09:37:56.262594,student_9,Attentive,1.0
+2025-11-04T09:37:56.307439,student_9,Attentive,1.0
+2025-11-04T09:37:56.368860,student_9,Attentive,1.0
+2025-11-04T09:37:56.496004,student_9,Sleepy,0.0
+2025-11-04T09:37:57.233649,student_10,Attentive,1.0
+2025-11-04T09:37:57.377073,student_10,Attentive,1.0
+2025-11-04T09:37:57.437483,student_11,Looking Down,0.6
+2025-11-04T09:37:57.489819,student_11,Looking Down,0.6
+2025-11-04T09:37:57.536548,student_11,Looking Down,0.6
+2025-11-04T09:37:57.568738,student_11,Looking Down,0.6
+2025-11-04T09:37:57.603939,student_11,Looking Down,0.6
+2025-11-04T09:37:57.647737,student_11,Looking Down,0.6
+2025-11-04T09:37:57.695463,student_11,Looking Down,0.6
+2025-11-04T09:37:57.745889,student_11,Looking Down,0.6
+2025-11-04T09:37:57.775266,student_11,Looking Down,0.6
+2025-11-04T09:37:57.875492,student_11,Looking Down,0.6
+2025-11-04T09:37:57.936681,student_11,Looking Down,0.6
+2025-11-04T09:37:58.013127,student_11,Looking Down,0.6
+2025-11-04T09:37:58.064523,student_11,Looking Down,0.6
+2025-11-04T09:37:58.137616,student_11,Looking Down,0.6
+2025-11-04T09:37:58.208988,student_11,Looking Down,0.6
+2025-11-04T09:37:58.267718,student_11,Looking Down,0.6
+2025-11-04T09:37:58.314788,student_11,Looking Down,0.6
+2025-11-04T09:37:58.348777,student_11,Looking Down,0.6
+2025-11-04T09:37:58.376606,student_11,Looking Down,0.6
+2025-11-04T09:37:58.443999,student_11,Looking Down,0.6
+2025-11-04T09:37:58.476527,student_11,Looking Down,0.6
+2025-11-04T09:37:58.518828,student_11,Looking Down,0.6
+2025-11-04T09:37:58.557892,student_11,Looking Down,0.6
+2025-11-04T09:37:58.592669,student_11,Looking Down,0.6
+2025-11-04T09:37:58.640013,student_11,Looking Down,0.6
+2025-11-04T09:37:58.671596,student_11,Looking Down,0.6
+2025-11-04T09:37:58.716886,student_11,Looking Down,0.6
+2025-11-04T09:37:58.753629,student_11,Looking Down,0.6
+2025-11-04T09:37:58.794914,student_11,Looking Down,0.6
+2025-11-04T09:37:58.881513,student_11,Looking Down,0.6
+2025-11-04T09:37:58.931238,student_11,Looking Down,0.6
+2025-11-04T09:37:58.971975,student_11,Looking Down,0.6
+2025-11-04T09:37:59.017457,student_11,Looking Down,0.6
+2025-11-04T09:37:59.059332,student_11,Looking Down,0.6
+2025-11-04T09:37:59.111981,student_11,Looking Down,0.6
+2025-11-04T09:37:59.146478,student_11,Looking Down,0.6
+2025-11-04T09:37:59.177727,student_11,Looking Down,0.6
+2025-11-04T09:37:59.222543,student_11,Looking Down,0.6
+2025-11-04T09:37:59.264678,student_11,Looking Down,0.6
+2025-11-04T09:37:59.359818,student_11,Looking Down,0.6
+2025-11-04T09:37:59.387150,student_11,Looking Down,0.6
+2025-11-04T09:37:59.429238,student_11,Looking Down,0.6
+2025-11-04T09:37:59.477938,student_11,Looking Down,0.6
+2025-11-04T09:37:59.531651,student_11,Looking Down,0.6
+2025-11-04T09:37:59.564320,student_11,Looking Down,0.6
+2025-11-04T09:37:59.592846,student_11,Looking Down,0.6
+2025-11-04T09:37:59.623587,student_11,Looking Down,0.6
+2025-11-04T09:37:59.663082,student_11,Looking Down,0.6
+2025-11-04T09:37:59.697097,student_11,Looking Down,0.6
+2025-11-04T09:37:59.756680,student_11,Looking Down,0.6
+2025-11-04T09:37:59.833523,student_11,Looking Down,0.6
+2025-11-04T09:37:59.873493,student_11,Looking Down,0.6
+2025-11-04T09:38:00.207712,student_12,Looking Down,0.6
+2025-11-04T09:38:00.256541,student_12,Looking Down,0.6
+2025-11-04T09:38:00.289118,student_12,Looking Down,0.6
+2025-11-04T09:38:00.319431,student_12,Looking Down,0.6
+2025-11-04T09:38:00.358097,student_12,Looking Down,0.6
+2025-11-04T09:38:00.391537,student_12,Looking Down,0.6
+2025-11-04T09:38:00.433105,student_12,Looking Down,0.6
+2025-11-04T09:38:00.463904,student_12,Looking Down,0.6
+2025-11-04T09:38:00.491003,student_12,Looking Down,0.6
+2025-11-04T09:38:00.549011,student_12,Looking Down,0.6
+2025-11-04T09:38:00.631259,student_12,Looking Down,0.6
+2025-11-04T09:38:00.676116,student_12,Looking Down,0.6
+2025-11-04T09:38:00.720798,student_12,Looking Down,0.6
+2025-11-04T09:38:00.766152,student_12,Attentive,1.0
+2025-11-04T09:38:00.795264,student_12,Attentive,1.0
+2025-11-04T09:38:00.830885,student_12,Attentive,1.0
+2025-11-04T09:38:00.862815,student_12,Attentive,1.0
+2025-11-04T09:38:00.903812,student_12,Attentive,1.0
+2025-11-04T09:38:00.942334,student_12,Attentive,1.0
+2025-11-04T09:38:00.976083,student_12,Attentive,1.0
+2025-11-04T09:38:01.068959,student_12,Attentive,1.0
+2025-11-04T09:38:01.106590,student_12,Attentive,1.0
+2025-11-04T09:38:01.151618,student_12,Attentive,1.0
+2025-11-04T09:38:01.198378,student_12,Attentive,1.0
+2025-11-04T09:38:01.235264,student_12,Attentive,1.0
+2025-11-04T09:38:01.272274,student_12,Attentive,1.0
+2025-11-04T09:38:01.316265,student_12,Attentive,1.0
+2025-11-04T09:38:01.363519,student_12,Attentive,1.0
+2025-11-04T09:38:01.417703,student_12,Attentive,1.0
+2025-11-04T09:38:01.462752,student_12,Attentive,1.0
+2025-11-04T09:38:01.564973,student_12,Attentive,1.0
+2025-11-04T09:38:01.609791,student_12,Attentive,1.0
+2025-11-04T09:38:01.665625,student_12,Attentive,1.0
+2025-11-04T09:38:01.743777,student_12,Attentive,1.0
+2025-11-04T09:38:01.779625,student_12,Attentive,1.0
+2025-11-04T09:38:01.830546,student_12,Attentive,1.0
+2025-11-04T09:38:01.855288,student_12,Attentive,1.0
+2025-11-04T09:38:01.897855,student_12,Attentive,1.0
+2025-11-04T09:38:01.937086,student_12,Attentive,1.0
+2025-11-04T09:38:01.969917,student_12,Attentive,1.0
+2025-11-04T09:38:02.060258,student_12,Attentive,1.0
+2025-11-04T09:38:02.096160,student_12,Attentive,1.0
+2025-11-04T09:38:02.142306,student_12,Attentive,1.0
+2025-11-04T09:38:02.176529,student_12,Attentive,1.0
+2025-11-04T09:38:02.228009,student_12,Attentive,1.0
+2025-11-04T09:38:02.282624,student_12,Attentive,1.0
+2025-11-04T09:38:02.322928,student_12,Attentive,1.0
+2025-11-04T09:38:02.361652,student_12,Looking Away,0.5
+2025-11-04T09:38:02.422427,student_12,Looking Away,0.5
+2025-11-04T09:38:02.463709,student_12,Looking Away,0.5
+2025-11-04T09:38:02.543260,student_12,Looking Away,0.5
+2025-11-04T09:38:02.576091,student_12,Looking Away,0.5
+2025-11-04T09:38:02.621282,student_12,Looking Away,0.5
+2025-11-04T09:38:02.657244,student_12,Looking Away,0.5
+2025-11-04T09:38:02.683113,student_12,Looking Away,0.5
+2025-11-04T09:38:02.729055,student_12,Looking Away,0.5
+2025-11-04T09:38:02.793738,student_12,Looking Away,0.5
+2025-11-04T09:38:02.844649,student_12,Looking Away,0.5
+2025-11-04T09:38:02.883953,student_12,Looking Away,0.5
+2025-11-04T09:38:02.921414,student_12,Looking Away,0.5
+2025-11-04T09:38:02.987309,student_12,Looking Away,0.5
+2025-11-04T09:38:03.025660,student_12,Looking Away,0.5
+2025-11-04T09:38:03.068403,student_12,Looking Away,0.5
+2025-11-04T09:38:03.117504,student_12,Looking Away,0.5
+2025-11-04T09:38:03.142695,student_12,Looking Away,0.5
+2025-11-04T09:38:03.182538,student_12,Looking Away,0.5
+2025-11-04T09:38:03.218612,student_12,Attentive,1.0
+2025-11-04T09:38:03.267476,student_12,Attentive,1.0
+2025-11-04T09:38:03.311359,student_12,Attentive,1.0
+2025-11-04T09:38:03.346146,student_12,Attentive,1.0
+2025-11-04T09:38:03.431791,student_12,Attentive,1.0
+2025-11-04T09:38:03.474773,student_12,Attentive,1.0
+2025-11-04T09:38:03.510506,student_12,Attentive,1.0
+2025-11-04T09:38:03.547355,student_12,Attentive,1.0
+2025-11-04T09:38:03.584656,student_12,Attentive,1.0
+2025-11-04T09:38:03.634619,student_12,Attentive,1.0
+2025-11-04T09:38:03.676360,student_12,Attentive,1.0
+2025-11-04T09:38:03.711430,student_12,Attentive,1.0
+2025-11-04T09:38:03.761841,student_12,Attentive,1.0
+2025-11-04T09:38:03.797750,student_12,Attentive,1.0
+2025-11-04T09:38:03.890503,student_12,Looking Away,0.5
+2025-11-04T09:38:03.923990,student_12,Attentive,1.0
+2025-11-04T09:38:03.961404,student_12,Looking Away,0.5
+2025-11-04T09:38:04.003020,student_12,Looking Away,0.5
+2025-11-04T09:38:04.051847,student_12,Looking Away,0.5
+2025-11-04T09:38:04.099459,student_12,Looking Away,0.5
+2025-11-04T09:38:04.147051,student_12,Looking Away,0.5
+2025-11-04T09:38:04.194578,student_12,Looking Away,0.5
+2025-11-04T09:38:04.230382,student_12,Looking Away,0.5
+2025-11-04T09:38:04.272003,student_12,Attentive,1.0
+2025-11-04T09:38:04.369782,student_12,Attentive,1.0
+2025-11-04T09:38:04.423091,student_12,Attentive,1.0
+2025-11-04T09:38:04.472758,student_12,Attentive,1.0
+2025-11-04T09:38:04.512472,student_12,Attentive,1.0
+2025-11-04T09:38:04.563535,student_12,Attentive,1.0
+2025-11-04T09:38:04.607661,student_12,Attentive,1.0
+2025-11-04T09:38:04.645050,student_12,Attentive,1.0
+2025-11-04T09:38:04.690022,student_12,Attentive,1.0
+2025-11-04T09:38:04.739233,student_12,Attentive,1.0
+2025-11-04T09:38:04.786057,student_12,Attentive,1.0
+2025-11-04T09:38:04.873282,student_12,Looking Away,0.5
+2025-11-04T09:38:04.915104,student_12,Attentive,1.0
+2025-11-04T09:38:04.963771,student_12,Attentive,1.0
+2025-11-04T09:38:05.010951,student_12,Attentive,1.0
+2025-11-04T09:38:05.049453,student_12,Looking Away,0.5
+2025-11-04T09:38:05.087206,student_12,Looking Away,0.5
+2025-11-04T09:38:05.122316,student_12,Looking Away,0.5
+2025-11-04T09:38:05.167155,student_12,Looking Away,0.5
+2025-11-04T09:38:05.215955,student_12,Looking Away,0.5
+2025-11-04T09:38:05.268866,student_12,Looking Away,0.5
+2025-11-04T09:38:05.404850,student_12,Looking Away,0.5
+2025-11-04T09:38:05.457881,student_12,Looking Away,0.5
+2025-11-04T09:38:05.520589,student_12,Looking Away,0.5
+2025-11-04T09:38:05.583789,student_12,Looking Away,0.5
+2025-11-04T09:38:05.636643,student_12,Looking Away,0.5
+2025-11-04T09:38:05.690218,student_12,Looking Away,0.5
+2025-11-04T09:38:05.749132,student_12,Looking Away,0.5
+2025-11-04T09:38:05.809045,student_12,Looking Away,0.5
+2025-11-04T09:38:05.870544,student_12,Attentive,1.0
+2025-11-04T09:38:05.924727,student_12,Attentive,1.0
+2025-11-04T09:38:06.060691,student_12,Attentive,1.0
+2025-11-04T09:38:06.115537,student_12,Attentive,1.0
+2025-11-04T09:38:06.174899,student_12,Attentive,1.0
+2025-11-04T09:38:06.225514,student_12,Attentive,1.0
+2025-11-04T09:38:06.295465,student_12,Attentive,1.0
+2025-11-04T09:38:06.343237,student_12,Looking Away,0.5
+2025-11-04T09:38:06.377852,student_12,Looking Away,0.5
+2025-11-04T09:38:06.415116,student_12,Looking Away,0.5
+2025-11-04T09:38:06.444809,student_12,Looking Away,0.5
+2025-11-04T09:38:06.475379,student_12,Looking Away,0.5
+2025-11-04T09:38:06.553736,student_12,Looking Away,0.5
+2025-11-04T09:38:06.593922,student_12,Looking Away,0.5
+2025-11-04T09:38:06.630290,student_12,Attentive,1.0
+2025-11-04T09:38:06.674012,student_12,Attentive,1.0
+2025-11-04T09:38:06.713814,student_12,Attentive,1.0
+2025-11-04T09:38:06.747529,student_12,Attentive,1.0
+2025-11-04T09:38:06.781536,student_12,Attentive,1.0
+2025-11-04T09:38:06.822136,student_12,Attentive,1.0
+2025-11-04T09:38:06.873351,student_12,Attentive,1.0
+2025-11-04T09:38:06.916797,student_12,Attentive,1.0
+2025-11-04T09:38:07.016970,student_12,Attentive,1.0
+2025-11-04T09:38:07.054210,student_12,Attentive,1.0
+2025-11-04T09:38:07.089182,student_12,Attentive,1.0
+2025-11-04T09:38:07.124683,student_12,Attentive,1.0
+2025-11-04T09:38:07.169648,student_12,Attentive,1.0
+2025-11-04T09:38:07.209207,student_12,Attentive,1.0
+2025-11-04T09:38:07.248129,student_12,Attentive,1.0
+2025-11-04T09:38:07.279297,student_12,Attentive,1.0
+2025-11-04T09:38:07.329895,student_12,Attentive,1.0
+2025-11-04T09:38:07.362744,student_12,Attentive,1.0
+2025-11-04T09:38:07.446890,student_12,Attentive,1.0
+2025-11-04T09:38:07.484810,student_12,Attentive,1.0
+2025-11-04T09:38:07.518241,student_12,Attentive,1.0
+2025-11-04T09:38:07.557231,student_12,Attentive,1.0
+2025-11-04T09:38:07.599131,student_12,Attentive,1.0
+2025-11-04T09:38:07.653321,student_12,Attentive,1.0
+2025-11-04T09:38:07.697618,student_12,Attentive,1.0
+2025-11-04T09:38:07.748670,student_12,Attentive,1.0
+2025-11-04T09:38:07.796065,student_12,Attentive,1.0
+2025-11-04T09:38:07.847448,student_12,Attentive,1.0
+2025-11-04T09:38:07.939645,student_12,Attentive,1.0
+2025-11-04T09:38:07.987883,student_12,Attentive,1.0
+2025-11-04T09:38:08.033438,student_12,Attentive,1.0
+2025-11-04T09:38:08.080048,student_12,Attentive,1.0
+2025-11-04T09:38:08.113855,student_12,Attentive,1.0
+2025-11-04T09:38:08.155018,student_12,Attentive,1.0
+2025-11-04T09:38:08.190104,student_12,Attentive,1.0
+2025-11-04T09:38:08.226143,student_12,Attentive,1.0
+2025-11-04T09:38:08.267289,student_12,Attentive,1.0
+2025-11-04T09:38:08.301712,student_12,Attentive,1.0
+2025-11-04T09:38:08.392761,student_12,Attentive,1.0
+2025-11-04T09:38:08.429737,student_12,Attentive,1.0
+2025-11-04T09:38:08.471687,student_12,Attentive,1.0
+2025-11-04T09:38:08.529001,student_12,Looking Down,0.6
+2025-11-04T09:38:08.581655,student_12,Looking Down,0.6
+2025-11-04T09:38:08.658101,student_12,Looking Down,0.6
+2025-11-04T09:38:08.718788,student_12,Looking Down,0.6
+2025-11-04T09:38:08.752478,student_12,Looking Down,0.6
+2025-11-04T09:38:08.792125,student_12,Looking Down,0.6
+2025-11-04T09:38:08.832267,student_12,Looking Down,0.6
+2025-11-04T09:38:08.915209,student_12,Looking Down,0.6
+2025-11-04T09:38:08.955626,student_12,Looking Down,0.6
+2025-11-04T09:38:08.992374,student_12,Looking Down,0.6
+2025-11-04T09:38:09.019441,student_12,Looking Down,0.6
+2025-11-04T09:38:09.053948,student_12,Looking Down,0.6
+2025-11-04T09:38:09.103871,student_12,Looking Down,0.6
+2025-11-04T09:38:09.131349,student_12,Looking Down,0.6
+2025-11-04T09:38:09.170525,student_12,Looking Down,0.6
+2025-11-04T09:38:09.215536,student_12,Looking Down,0.6
+2025-11-04T09:38:09.242732,student_12,Looking Down,0.6
+2025-11-04T09:38:09.330694,student_12,Looking Down,0.6
+2025-11-04T09:38:09.376852,student_12,Looking Down,0.6
+2025-11-04T09:38:09.401980,student_12,Looking Down,0.6
+2025-11-04T09:38:09.457038,student_12,Looking Down,0.6
+2025-11-04T09:38:09.487288,student_12,Attentive,1.0
+2025-11-04T09:38:09.530712,student_12,Attentive,1.0
+2025-11-04T09:38:09.565947,student_12,Attentive,1.0
+2025-11-04T09:38:09.595800,student_12,Attentive,1.0
+2025-11-04T09:38:09.633537,student_12,Attentive,1.0
+2025-11-04T09:38:09.669604,student_12,Attentive,1.0
+2025-11-04T09:38:09.756162,student_12,Attentive,1.0
+2025-11-04T09:38:09.784181,student_12,Attentive,1.0
+2025-11-04T09:38:09.818566,student_12,Attentive,1.0
+2025-11-04T09:38:09.857216,student_12,Attentive,1.0
+2025-11-04T09:38:09.888711,student_12,Attentive,1.0
+2025-11-04T09:38:09.939113,student_12,Attentive,1.0
+2025-11-04T09:38:09.983654,student_12,Attentive,1.0
+2025-11-04T09:38:10.035914,student_12,Attentive,1.0
+2025-11-04T09:38:10.084959,student_12,Attentive,1.0
+2025-11-04T09:38:10.129025,student_12,Attentive,1.0
+2025-11-04T09:38:10.208892,student_12,Attentive,1.0
+2025-11-04T09:38:10.256633,student_12,Attentive,1.0
+2025-11-04T09:38:10.291111,student_12,Attentive,1.0
+2025-11-04T09:38:10.334265,student_12,Attentive,1.0
+2025-11-04T09:38:10.366371,student_12,Attentive,1.0
+2025-11-04T09:38:10.398419,student_12,Attentive,1.0
+2025-11-04T09:38:10.449378,student_12,Attentive,1.0
+2025-11-04T09:38:10.495747,student_12,Attentive,1.0
+2025-11-04T09:38:10.534390,student_12,Attentive,1.0
+2025-11-04T09:38:10.571309,student_12,Attentive,1.0
+2025-11-04T09:38:10.672852,student_12,Attentive,1.0
+2025-11-04T09:38:10.700062,student_12,Attentive,1.0
+2025-11-04T09:38:10.735542,student_12,Attentive,1.0
+2025-11-04T09:38:10.784882,student_12,Attentive,1.0
+2025-11-04T09:38:10.832079,student_12,Attentive,1.0
+2025-11-04T09:38:10.881782,student_12,Attentive,1.0
+2025-11-04T09:38:10.915498,student_12,Attentive,1.0
+2025-11-04T09:38:10.960741,student_12,Attentive,1.0
+2025-11-04T09:38:10.998021,student_12,Attentive,1.0
+2025-11-04T09:38:11.040263,student_12,Attentive,1.0
+2025-11-04T09:38:11.115638,student_12,Attentive,1.0
+2025-11-04T09:38:11.152114,student_12,Attentive,1.0
+2025-11-04T09:38:11.184166,student_12,Attentive,1.0
+2025-11-04T09:38:11.213114,student_12,Attentive,1.0
+2025-11-04T09:38:11.246758,student_12,Attentive,1.0
+2025-11-04T09:38:11.280396,student_12,Attentive,1.0
+2025-11-04T09:38:11.311782,student_12,Attentive,1.0
+2025-11-04T09:38:11.345472,student_12,Attentive,1.0
+2025-11-04T09:38:11.376178,student_12,Attentive,1.0
+2025-11-04T09:38:11.424820,student_12,Attentive,1.0
+2025-11-04T09:38:11.496031,student_12,Attentive,1.0
+2025-11-04T09:38:11.528290,student_12,Attentive,1.0
+2025-11-04T09:38:11.562024,student_12,Attentive,1.0
+2025-11-04T09:38:11.599803,student_12,Attentive,1.0
+2025-11-04T09:38:11.638171,student_12,Attentive,1.0
+2025-11-04T09:38:11.681075,student_12,Sleepy,0.0
+2025-11-04T09:38:11.721681,student_12,Sleepy,0.0
+2025-11-04T09:38:11.775010,student_12,Sleepy,0.0
+2025-11-04T09:38:11.829240,student_12,Sleepy,0.0
+2025-11-04T09:38:11.891095,student_12,Sleepy,0.0
+2025-11-04T09:38:12.042636,student_12,Sleepy,0.0
+2025-11-04T09:38:12.082305,student_12,Sleepy,0.0
+2025-11-04T09:38:12.133172,student_12,Sleepy,0.0
+2025-11-04T09:38:12.171877,student_12,Sleepy,0.0
+2025-11-04T09:38:12.208066,student_12,Sleepy,0.0
+2025-11-04T09:38:12.236820,student_12,Sleepy,0.0
+2025-11-04T09:38:12.273505,student_12,Sleepy,0.0
+2025-11-04T09:38:12.320926,student_12,Sleepy,0.0
+2025-11-04T09:38:12.352519,student_12,Sleepy,0.0
+2025-11-04T09:38:12.385414,student_12,Sleepy,0.0
+2025-11-04T09:38:12.472946,student_12,Sleepy,0.0
+2025-11-04T09:38:12.514160,student_12,Sleepy,0.0
+2025-11-04T09:38:12.545338,student_12,Sleepy,0.0
+2025-11-04T09:38:12.589002,student_12,Sleepy,0.0
+2025-11-04T09:38:12.632690,student_12,Sleepy,0.0
+2025-11-04T09:38:12.680954,student_12,Sleepy,0.0
+2025-11-04T09:38:12.711833,student_12,Sleepy,0.0
+2025-11-04T09:38:12.788762,student_12,Sleepy,0.0
+2025-11-04T09:38:12.860478,student_12,Attentive,1.0
+2025-11-04T09:38:12.909654,student_12,Attentive,1.0
+2025-11-04T09:38:13.038162,student_12,Attentive,1.0
+2025-11-04T09:38:13.089074,student_12,Attentive,1.0
+2025-11-04T09:38:13.139720,student_12,Attentive,1.0
+2025-11-04T09:38:13.203414,student_12,Attentive,1.0
+2025-11-04T09:38:13.271281,student_12,Attentive,1.0
+2025-11-04T09:38:13.325745,student_12,Looking Away,0.5
+2025-11-04T09:38:13.396644,student_12,Looking Away,0.5
+2025-11-04T09:38:13.467396,student_12,Looking Away,0.5
+2025-11-04T09:38:13.525274,student_12,Looking Away,0.5
+2025-11-04T09:38:13.564826,student_12,Looking Away,0.5
+2025-11-04T09:38:13.622388,student_12,Looking Away,0.5
+2025-11-04T09:38:13.658569,student_12,Looking Away,0.5
+2025-11-04T09:38:13.708237,student_12,Looking Away,0.5
+2025-11-04T09:38:13.760715,student_12,Looking Away,0.5
+2025-11-04T09:38:13.791770,student_12,Looking Away,0.5
+2025-11-04T09:38:13.817516,student_12,Looking Away,0.5
+2025-11-04T09:38:13.856482,student_12,Looking Away,0.5
+2025-11-04T09:38:13.890791,student_12,Looking Away,0.5
+2025-11-04T09:38:13.945812,student_12,Looking Away,0.5
+2025-11-04T09:38:14.005241,student_12,Looking Away,0.5
+2025-11-04T09:38:14.139384,student_12,Looking Away,0.5
+2025-11-04T09:38:14.192748,student_12,Looking Away,0.5
+2025-11-04T09:38:14.257092,student_12,Looking Away,0.5
+2025-11-04T09:38:14.327773,student_12,Looking Away,0.5
+2025-11-04T09:38:14.390934,student_12,Looking Away,0.5
+2025-11-04T09:38:14.447339,student_12,Attentive,1.0
+2025-11-04T09:38:14.512782,student_12,Attentive,1.0
+2025-11-04T09:38:14.569941,student_12,Attentive,1.0
+2025-11-04T09:38:14.625898,student_12,Attentive,1.0
+2025-11-04T09:38:14.685989,student_12,Attentive,1.0
+2025-11-04T09:38:14.811455,student_12,Attentive,1.0
+2025-11-04T09:38:14.861360,student_12,Attentive,1.0
+2025-11-04T09:38:14.912374,student_12,Attentive,1.0
+2025-11-04T09:38:14.974390,student_12,Attentive,1.0
+2025-11-04T09:38:15.026124,student_12,Attentive,1.0
+2025-11-04T09:38:15.076215,student_12,Attentive,1.0
+2025-11-04T09:38:15.132406,student_12,Attentive,1.0
+2025-11-04T09:38:15.182153,student_12,Attentive,1.0
+2025-11-04T09:38:15.233059,student_12,Attentive,1.0
+2025-11-04T09:38:15.306361,student_12,Looking Away,0.5
+2025-11-04T09:38:15.441753,student_12,Looking Away,0.5
+2025-11-04T09:38:15.504157,student_12,Looking Away,0.5
+2025-11-04T09:38:15.561247,student_12,Looking Away,0.5
+2025-11-04T09:38:15.615971,student_12,Looking Away,0.5
+2025-11-04T09:38:15.664611,student_12,Looking Away,0.5
+2025-11-04T09:38:15.710574,student_12,Looking Away,0.5
+2025-11-04T09:38:15.759921,student_12,Looking Away,0.5
+2025-11-04T09:38:15.808750,student_12,Attentive,1.0
+2025-11-04T09:38:15.855254,student_12,Attentive,1.0
+2025-11-04T09:38:15.904467,student_12,Attentive,1.0
+2025-11-04T09:38:16.013470,student_12,Attentive,1.0
+2025-11-04T09:38:16.064325,student_12,Attentive,1.0
+2025-11-04T09:38:16.097903,student_12,Attentive,1.0
+2025-11-04T09:38:16.144397,student_12,Attentive,1.0
+2025-11-04T09:38:16.178778,student_12,Attentive,1.0
+2025-11-04T09:38:16.225779,student_12,Attentive,1.0
+2025-11-04T09:38:16.258696,student_12,Attentive,1.0
+2025-11-04T09:38:16.301488,student_12,Attentive,1.0
+2025-11-04T09:38:16.335059,student_12,Attentive,1.0
+2025-11-04T09:38:16.381115,student_12,Attentive,1.0
+2025-11-04T09:38:16.456443,student_12,Attentive,1.0
+2025-11-04T09:38:16.510768,student_12,Attentive,1.0
+2025-11-04T09:38:16.542470,student_12,Attentive,1.0
+2025-11-04T09:38:16.572262,student_12,Attentive,1.0
+2025-11-04T09:38:16.613798,student_12,Attentive,1.0
+2025-11-04T09:38:16.655166,student_12,Attentive,1.0
+2025-11-04T09:38:16.686906,student_12,Attentive,1.0
+2025-11-04T09:38:16.718227,student_12,Attentive,1.0
+2025-11-04T09:38:16.747517,student_12,Attentive,1.0
+2025-11-04T09:38:16.778708,student_12,Attentive,1.0
+2025-11-04T09:38:16.857682,student_12,Attentive,1.0
+2025-11-04T09:38:16.893003,student_12,Attentive,1.0
+2025-11-04T09:38:16.925552,student_12,Attentive,1.0
+2025-11-04T09:38:16.959453,student_12,Attentive,1.0
+2025-11-04T09:38:17.006427,student_12,Attentive,1.0
+2025-11-04T09:38:17.038776,student_12,Attentive,1.0
+2025-11-04T09:38:17.068025,student_12,Attentive,1.0
+2025-11-04T09:38:17.115472,student_12,Attentive,1.0
+2025-11-04T09:38:17.152112,student_12,Attentive,1.0
+2025-11-04T09:38:17.180808,student_12,Looking Away,0.5
+2025-11-04T09:38:17.260780,student_12,Looking Away,0.5
+2025-11-04T09:38:17.291012,student_12,Looking Away,0.5
+2025-11-04T09:38:17.327198,student_12,Looking Away,0.5
+2025-11-04T09:38:17.358305,student_12,Looking Away,0.5
+2025-11-04T09:38:17.383822,student_12,Looking Away,0.5
+2025-11-04T09:38:17.423723,student_12,Looking Away,0.5
+2025-11-04T09:38:17.453016,student_12,Looking Away,0.5
+2025-11-04T09:38:17.486466,student_12,Looking Away,0.5
+2025-11-04T09:38:17.514426,student_12,Looking Away,0.5
+2025-11-04T09:38:17.547273,student_12,Looking Away,0.5
+2025-11-04T09:38:17.665679,student_12,Looking Away,0.5
+2025-11-04T09:38:17.706174,student_12,Looking Away,0.5
+2025-11-04T09:38:17.754766,student_12,Looking Away,0.5
+2025-11-04T09:38:17.796018,student_12,Looking Away,0.5
+2025-11-04T09:38:17.836834,student_12,Looking Away,0.5
+2025-11-04T09:38:17.870907,student_12,Looking Away,0.5
+2025-11-04T09:38:17.902263,student_12,Looking Away,0.5
+2025-11-04T09:38:17.938337,student_12,Looking Away,0.5
+2025-11-04T09:38:17.977424,student_12,Looking Away,0.5
+2025-11-04T09:38:18.012546,student_12,Looking Away,0.5
+2025-11-04T09:38:18.089491,student_12,Looking Away,0.5
+2025-11-04T09:38:18.130107,student_12,Looking Away,0.5
+2025-11-04T09:38:18.176319,student_12,Looking Away,0.5
+2025-11-04T09:38:18.215731,student_12,Looking Away,0.5
+2025-11-04T09:38:18.249433,student_12,Looking Away,0.5
+2025-11-04T09:38:18.288519,student_12,Attentive,1.0
+2025-11-04T09:38:18.331980,student_12,Attentive,1.0
+2025-11-04T09:38:18.370473,student_12,Attentive,1.0
+2025-11-04T09:38:18.410229,student_12,Attentive,1.0
+2025-11-04T09:38:18.447119,student_12,Attentive,1.0
+2025-11-04T09:38:18.536130,student_12,Attentive,1.0
+2025-11-04T09:38:18.576769,student_12,Attentive,1.0
+2025-11-04T09:38:18.613435,student_12,Attentive,1.0
+2025-11-04T09:38:18.636211,student_12,Attentive,1.0
+2025-11-04T09:38:18.701692,student_12,Attentive,1.0
+2025-11-04T09:38:18.736503,student_12,Attentive,1.0
+2025-11-04T09:38:18.768520,student_12,Attentive,1.0
+2025-11-04T09:38:18.802191,student_12,Attentive,1.0
+2025-11-04T09:38:18.845110,student_12,Attentive,1.0
+2025-11-04T09:38:18.878489,student_12,Attentive,1.0
+2025-11-04T09:38:18.956298,student_12,Attentive,1.0
+2025-11-04T09:38:18.987001,student_12,Attentive,1.0
+2025-11-04T09:38:19.040035,student_12,Attentive,1.0
+2025-11-04T09:38:19.071520,student_12,Attentive,1.0
+2025-11-04T09:38:19.103973,student_12,Attentive,1.0
+2025-11-04T09:38:19.131260,student_12,Attentive,1.0
+2025-11-04T09:38:19.169600,student_12,Attentive,1.0
+2025-11-04T09:38:19.220702,student_12,Attentive,1.0
+2025-11-04T09:38:19.257236,student_12,Attentive,1.0
+2025-11-04T09:38:19.311708,student_12,Attentive,1.0
+2025-11-04T09:38:19.403539,student_12,Attentive,1.0
+2025-11-04T09:38:19.440006,student_12,Attentive,1.0
+2025-11-04T09:38:19.487200,student_12,Attentive,1.0
+2025-11-04T09:38:19.533489,student_12,Attentive,1.0
+2025-11-04T09:38:19.597111,student_12,Attentive,1.0
+2025-11-04T09:38:19.679175,student_12,Attentive,1.0
+2025-11-04T09:38:19.733923,student_12,Attentive,1.0
+2025-11-04T09:38:19.765448,student_12,Attentive,1.0
+2025-11-04T09:38:19.809988,student_12,Attentive,1.0
+2025-11-04T09:38:19.844587,student_12,Attentive,1.0
+2025-11-04T09:38:19.910132,student_12,Attentive,1.0
+2025-11-04T09:38:19.946484,student_12,Attentive,1.0
+2025-11-04T09:38:19.990523,student_12,Attentive,1.0
+2025-11-04T09:38:20.027432,student_12,Attentive,1.0
+2025-11-04T09:38:20.077919,student_12,Attentive,1.0
+2025-11-04T09:38:20.114764,student_12,Attentive,1.0
+2025-11-04T09:38:23.049008,student_13,Attentive,1.0
+2025-11-04T09:38:23.108074,student_13,Attentive,1.0
+2025-11-04T09:38:23.182459,student_13,Attentive,1.0
+2025-11-04T09:38:23.184859,student_13,Attentive,1.0
+2025-11-04T09:38:23.233981,student_13,Attentive,1.0
+2025-11-04T09:38:23.289945,student_13,Attentive,1.0
+2025-11-04T09:38:23.332321,student_13,Attentive,1.0
+2025-11-04T09:38:23.387838,student_13,Attentive,1.0
+2025-11-04T09:38:23.437684,student_13,Attentive,1.0
+2025-11-04T09:38:23.491828,student_13,Attentive,1.0
+2025-11-04T09:38:23.598911,student_13,Attentive,1.0
+2025-11-04T09:38:23.648178,student_13,Attentive,1.0
+2025-11-04T09:38:23.697093,student_13,Attentive,1.0
+2025-11-04T09:38:23.730039,student_13,Attentive,1.0
+2025-11-04T09:38:23.776201,student_13,Attentive,1.0
+2025-11-04T09:38:23.843385,student_13,Attentive,1.0
+2025-11-04T09:38:23.889368,student_13,Attentive,1.0
+2025-11-04T09:38:23.944645,student_13,Attentive,1.0
+2025-11-04T09:38:23.992543,student_13,Attentive,1.0
+2025-11-04T09:38:24.062340,student_13,Attentive,1.0
+2025-11-04T09:38:24.250124,student_13,Attentive,1.0
+2025-11-04T09:38:24.329792,student_13,Attentive,1.0
+2025-11-04T09:38:24.418795,student_13,Attentive,1.0
+2025-11-04T09:38:24.505432,student_13,Attentive,1.0
+2025-11-04T09:38:24.568388,student_13,Attentive,1.0
+2025-11-04T09:38:24.632374,student_13,Attentive,1.0
+2025-11-04T09:38:24.695275,student_13,Attentive,1.0
+2025-11-04T09:38:24.731269,student_13,Attentive,1.0
